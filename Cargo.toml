@@ -2,6 +2,11 @@
 name = "pi_util"
 version = "0.1.0"
 authors = ["zmythleo <zmythleo@gmail.com>"]
+edition = "2021"
+description = "General function library"
+repository = "https://github.com/GaiaWorld/pi_util.git"
+license = "MIT OR Apache-2.0"
+keywords = ["pi","util", "pi_util"]
 
 [dependencies]
 libc = "*"
